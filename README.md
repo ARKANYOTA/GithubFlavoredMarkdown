@@ -87,5 +87,5 @@ solid cube_corner
   endfacet
 endsolid
 ```
-https://github.com/ARKANYOTA/GithubFlavoredMarkdown/blob/main/README.md?plain=1#L90
+https://github.com/ARKANYOTA/GithubFlavoredMarkdown
 https://github.com/ARKANYOTA/GithubFlavoredMarkdown/blob/b785a0ee4eedf4b206ecaffadea3b8580c0241d5/README.md?plain=1#L1-L12
